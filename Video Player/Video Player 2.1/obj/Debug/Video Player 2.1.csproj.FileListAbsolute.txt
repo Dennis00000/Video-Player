@@ -1,0 +1,16 @@
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.csproj.AssemblyReference.cache
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Interop.WMPLib.dll
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.csproj.ResolveComReference.cache
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video_Player_2._1.Form1.resources
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video_Player_2._1.Properties.Resources.resources
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.csproj.GenerateResource.cache
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.csproj.CoreCompileInputs.cache
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\bin\Debug\Video Player 2.1.exe.config
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\bin\Debug\Video Player 2.1.exe
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\bin\Debug\Video Player 2.1.pdb
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\bin\Debug\Interop.WMPLib.dll
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.exe
+C:\Users\opool\OneDrive\Desktop\Video Player 2.1\Video Player 2.1\obj\Debug\Video Player 2.1.pdb
